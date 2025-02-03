@@ -1,8 +1,8 @@
 
 # Financial-and-Stock-Analysis
 ## Author
-**Name:** Adham Sherif Hussein Ebaid  
-**Email:** adhamebaid1@gmail.com 
+**Name:** Ayush Shrivastava  
+**Email:** ayushshrivastava2814@gmail.com 
 ## Description  
 
 ![PowerBI_Report_Showcase](Media/PBI/PowerBI_Report_Showcase_GIF.gif) 
