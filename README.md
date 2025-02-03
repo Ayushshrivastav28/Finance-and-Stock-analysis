@@ -1,8 +1,8 @@
 
 # Financial-and-Stock-Analysis
 ## Author
-**Name:** Ayush Shrivastava  
-**Email:** ayushshrivastava2814@gmail.com 
+**Name:** Adham Sherif Hussein Ebaid  
+**Email:** adhamebaid1@gmail.com 
 ## Description  
 
 ![PowerBI_Report_Showcase](Media/PBI/PowerBI_Report_Showcase_GIF.gif) 
@@ -156,7 +156,7 @@ This view shows cruical metrics to evaluate each company's financial state and h
 
 **Cash_Asset_Ratio**:
 
- ![Cash_Asset_Ratio view creation]<img src="https://github.com/Ayushshrivastav28/Finance-and-Stock-analysis/blob/9bf47d1d93e2c25e8fa17bba51e920de61044470/SQL%20queries/Queries/cash_asset_ratio_1.png alt="Cash Asset ratio">  
+ ![Cash_Asset_Ratio view creation](Media/SQL/Queries/cash_asset_ratio_1.png)  
  
 This view calculates the average and current cash asset ratio for each company and sector. The `Current_Cash_Asset_Ratio` is specifically calculated for the third quarter of 2024.  
 
