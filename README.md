@@ -1,8 +1,8 @@
 
 # Financial-and-Stock-Analysis
 ## Author
-**Name:** Ayush Shrivastava  
-**Email:** ayushshrivastava2814@gmail.com 
+**Name:** Ayush Shrivastava 
+**Email:** ayushshrivastava@gmail.com 
 ## Description  
 
 ![PowerBI_Report_Showcase](Media/PBI/PowerBI_Report_Showcase_GIF.gif) 
@@ -268,25 +268,3 @@ The report offers a comprehensive view of the company's financial metrics, inclu
 By customizing the report with different sectors, companies, and time periods, users can tailor the analysis to their specific needs. This flexibility allows for a deeper understanding of the company's financial performance and its implications for future growth and investment decisions.  
 
 Overall, this Power BI report serves as a valuable resource for investors, analysts, and management teams to make informed decisions based on data-driven insights.
- 
- 
- 
-
-
-    
-
-
-     
-
-
- 
- 
-
- 
-    
-
-
-  
-  
-  
-  
