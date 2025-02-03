@@ -2,6 +2,7 @@
 # Financial-and-Stock-Analysis
 ## Author
 **Name:** Ayush Shrivastava 
+
 **Email:** ayushshrivastava@gmail.com 
 ## Description  
 
