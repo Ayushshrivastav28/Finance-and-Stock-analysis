@@ -156,7 +156,7 @@ This view shows cruical metrics to evaluate each company's financial state and h
 
 **Cash_Asset_Ratio**:
 
- ![Cash_Asset_Ratio view creation](SQL queries/Queries/cash_asset_ratio_1.png)  
+ ![Cash_Asset_Ratio view creation](SQLqueries/Queries/cash_asset_ratio_1.png)  
  
 This view calculates the average and current cash asset ratio for each company and sector. The `Current_Cash_Asset_Ratio` is specifically calculated for the third quarter of 2024.  
 
